@@ -1,11 +1,13 @@
 ## 1. Welcome and Introduction
-- Brief overview of the community's purpose
-- What to expect from the video series
+- Brief overview of a community's purpose
+- Why communities are so vital to your growth
+- What to expect from this video series
 
 ## 2. Getting Started
 - Creating your Skool.com account
 - Setting up your profile
 - Navigating the main dashboard
+- Introducing yourself
 
 ## 3. Community Basics
 - Understanding the community structure
