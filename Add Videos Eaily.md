@@ -76,10 +76,8 @@ Keep your momentum going!! Move on to the next course, module, or lesson!
 
 📲 Download the Skool app for your iPhone or Android from the links below.
 
-⬇️ iOS 
-- https://apps.apple.com/us/app/skool-communities/id6447270545
+iOS ➡️ https://apps.apple.com/us/app/skool-communities/id6447270545
 
-⬇️ Android
-- https://play.google.com/store/apps/details?id=com.skool.skoolcommunities
+Android ➡️ https://play.google.com/store/apps/details?id=com.skool.skoolcommunities
 
 The app includes push notifications, in-app link opening, and more. 😎👍
