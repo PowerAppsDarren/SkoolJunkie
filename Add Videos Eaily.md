@@ -52,6 +52,7 @@ https://youtu.be/64sn5zuajNk
 
 # Getting Help When You Need It
 https://youtu.be/u8c7dcmAadg
+You can always get support at support@superpowerlabs.co
 Here is the Skool help center link: https://help.skool.com/
 
 # Finding What You're Looking For
@@ -70,3 +71,15 @@ https://youtu.be/HHczJUzbT4M
 # Winning and Topping the Leaderboards
 https://youtu.be/p_RVgoVcQ38
 Keep your momentum going!! Move on to the next course, module, or lesson!
+
+# Get the Skool Mobile App
+
+📲 Download the Skool app for your iPhone or Android from the links below.
+
+⬇️ iOS 
+- https://apps.apple.com/us/app/skool-communities/id6447270545
+
+⬇️ Android
+- https://play.google.com/store/apps/details?id=com.skool.skoolcommunities
+
+The app includes push notifications, in-app link opening, and more. 😎👍
